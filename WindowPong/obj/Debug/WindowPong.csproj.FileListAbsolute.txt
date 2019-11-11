@@ -1,0 +1,24 @@
+F:\Computer Science\Programming\MFP\WindowPong\WindowPong\bin\Debug\WindowPong.exe.config
+F:\Computer Science\Programming\MFP\WindowPong\WindowPong\bin\Debug\WindowPong.exe
+F:\Computer Science\Programming\MFP\WindowPong\WindowPong\bin\Debug\WindowPong.pdb
+F:\Computer Science\Programming\MFP\WindowPong\WindowPong\obj\Debug\WindowPong.csprojResolveAssemblyReference.cache
+F:\Computer Science\Programming\MFP\WindowPong\WindowPong\obj\Debug\WindowPong.BallWindow.resources
+F:\Computer Science\Programming\MFP\WindowPong\WindowPong\obj\Debug\WindowPong.LPaddle.resources
+F:\Computer Science\Programming\MFP\WindowPong\WindowPong\obj\Debug\WindowPong.Properties.Resources.resources
+F:\Computer Science\Programming\MFP\WindowPong\WindowPong\obj\Debug\WindowPong.csproj.GenerateResource.cache
+F:\Computer Science\Programming\MFP\WindowPong\WindowPong\obj\Debug\WindowPong.csproj.CoreCompileInputs.cache
+F:\Computer Science\Programming\MFP\WindowPong\WindowPong\obj\Debug\WindowPong.exe
+F:\Computer Science\Programming\MFP\WindowPong\WindowPong\obj\Debug\WindowPong.pdb
+F:\Computer Science\Programming\MFP\WindowPong\WindowPong\obj\Debug\WindowPong.RPaddle.resources
+D:\Documents\WindowPong\WindowPong\bin\Debug\WindowPong.exe.config
+D:\Documents\WindowPong\WindowPong\bin\Debug\WindowPong.exe
+D:\Documents\WindowPong\WindowPong\bin\Debug\WindowPong.pdb
+D:\Documents\WindowPong\WindowPong\obj\Debug\WindowPong.csprojAssemblyReference.cache
+D:\Documents\WindowPong\WindowPong\obj\Debug\WindowPong.BallWindow.resources
+D:\Documents\WindowPong\WindowPong\obj\Debug\WindowPong.LPaddle.resources
+D:\Documents\WindowPong\WindowPong\obj\Debug\WindowPong.Properties.Resources.resources
+D:\Documents\WindowPong\WindowPong\obj\Debug\WindowPong.RPaddle.resources
+D:\Documents\WindowPong\WindowPong\obj\Debug\WindowPong.csproj.GenerateResource.cache
+D:\Documents\WindowPong\WindowPong\obj\Debug\WindowPong.csproj.CoreCompileInputs.cache
+D:\Documents\WindowPong\WindowPong\obj\Debug\WindowPong.exe
+D:\Documents\WindowPong\WindowPong\obj\Debug\WindowPong.pdb

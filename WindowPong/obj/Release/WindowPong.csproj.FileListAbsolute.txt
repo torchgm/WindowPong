@@ -1,0 +1,12 @@
+D:\Documents\WindowPong\WindowPong\bin\Release\WindowPong.exe.config
+D:\Documents\WindowPong\WindowPong\bin\Release\WindowPong.exe
+D:\Documents\WindowPong\WindowPong\bin\Release\WindowPong.pdb
+D:\Documents\WindowPong\WindowPong\obj\Release\WindowPong.csprojAssemblyReference.cache
+D:\Documents\WindowPong\WindowPong\obj\Release\WindowPong.BallWindow.resources
+D:\Documents\WindowPong\WindowPong\obj\Release\WindowPong.LPaddle.resources
+D:\Documents\WindowPong\WindowPong\obj\Release\WindowPong.Properties.Resources.resources
+D:\Documents\WindowPong\WindowPong\obj\Release\WindowPong.RPaddle.resources
+D:\Documents\WindowPong\WindowPong\obj\Release\WindowPong.csproj.GenerateResource.cache
+D:\Documents\WindowPong\WindowPong\obj\Release\WindowPong.csproj.CoreCompileInputs.cache
+D:\Documents\WindowPong\WindowPong\obj\Release\WindowPong.exe
+D:\Documents\WindowPong\WindowPong\obj\Release\WindowPong.pdb
